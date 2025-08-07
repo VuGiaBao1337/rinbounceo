@@ -101,6 +101,7 @@ object ModuleManager : Listenable, Collection<Module> by MODULE_REGISTRY {
             ESP,
             AutoEagle,
             FakeLag,
+            FakeLag2,
             FastBow,
             FastBreak,
             FastClimb,
